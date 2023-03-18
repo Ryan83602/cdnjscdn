@@ -1,0 +1,7 @@
+{
+  "name": "YourProjectName1",
+  "version": 2,
+  "routes": [
+    {"src": "/(.*)","dest": "https://cdnjs.cloudflare.com/$1"}
+  ]
+}
